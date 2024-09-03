@@ -1,0 +1,40 @@
+{
+    "testUInt": 1,
+    "testInt": -1,
+    "testString": "test string",
+    "testStringInt": "100",
+    "testStringIntNegative": "-100",
+    "testFloat": 1.1111,
+    "testDouble": 1.1111,
+    "testNull": null,
+    "testDictionary": {
+        "key1": "value1",
+        "key2": "value2",
+        "key3": "value3"
+    },
+    "testDate": "2015-01-30 at 13:00",
+    "testURL": "http://apple.com",
+    "sub-object": {
+        "subUInt": 1,
+        "subInt": -1,
+        "subString": "sub test string"
+    },
+    "arrayOfStrings": [
+        "array", "of", "strings"
+    ],
+    "arrayOfInts": [
+        0, 1, 2
+    ],
+    "arrayOfDoubles": [
+        -1.1, 0, 1.1
+    ],
+    "arrayOfUInts": [
+        0, 1, 2
+    ],
+    "arrayOfFloats": [
+        -1.1, 0, 1.1
+    ],
+    "arrayOfBools": [
+        true, true, false
+    ]
+}
